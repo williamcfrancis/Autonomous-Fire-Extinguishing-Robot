@@ -3,4 +3,4 @@ A robot that autonomously detect and extinguish fire. It uses flame sensor for d
 
 ![firefighter](https://user-images.githubusercontent.com/38180831/67008636-8e8a3c80-f107-11e9-8e51-da3bba431797.PNG)
 
-Find more info in the Project Report.
+More information can be found in the project report.
